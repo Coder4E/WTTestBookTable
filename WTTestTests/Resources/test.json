@@ -1,0 +1,82 @@
+{
+    "cod": "200",
+    "message": 0.0073,
+    "cnt": 40,
+    "list": [
+             {
+             "dt": 1489590000,
+             "main": {
+             "temp": 16.94,
+             "temp_min": 15.23,
+             "temp_max": 16.94,
+             "pressure": 1037.36,
+             "sea_level": 1045.06,
+             "grnd_level": 1037.36,
+             "humidity": 72,
+             "temp_kf": 1.71
+             },
+             "weather": [
+                         {
+                         "id": 800,
+                         "main": "Clear",
+                         "description": "clear sky",
+                         "icon": "01d"
+                         }
+                         ],
+             "clouds": {
+             "all": 0
+             },
+             "wind": {
+             "speed": 2.21,
+             "deg": 222.5
+             },
+             "rain": {},
+             "sys": {
+             "pod": "d"
+             },
+             "dt_txt": "2017-03-15 15:00:00"
+             },
+             {
+             "dt": 1489600800,
+             "main": {
+             "temp": 14.12,
+             "temp_min": 12.84,
+             "temp_max": 14.12,
+             "pressure": 1036.64,
+             "sea_level": 1044.19,
+             "grnd_level": 1036.64,
+             "humidity": 73,
+             "temp_kf": 1.29
+             },
+             "weather": [
+                         {
+                         "id": 800,
+                         "main": "Clear",
+                         "description": "clear sky",
+                         "icon": "01d"
+                         }
+                         ],
+             "clouds": {
+             "all": 0
+             },
+             "wind": {
+             "speed": 1.4,
+             "deg": 219
+             },
+             "rain": {},
+             "sys": {
+             "pod": "d"
+             },
+             "dt_txt": "2017-03-15 18:00:00"
+             }
+             ],
+        "city": {
+            "id": 2643743,
+            "name": "London",
+            "coord": {
+                "lat": 51.5085,
+                "lon": -0.1258
+            },
+            "country": "GB"
+        }
+}

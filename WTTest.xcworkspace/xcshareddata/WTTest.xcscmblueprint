@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E56C7186D006DEF0F45D948B6D237B9BAD7ED9D4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E56C7186D006DEF0F45D948B6D237B9BAD7ED9D4" : 9223372036854775807,
+    "22D6C9A334D7A7120AD77573BE71DB0DE8BFED45" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C8EE76B9-157B-440C-98E5-24DF78214E8E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E56C7186D006DEF0F45D948B6D237B9BAD7ED9D4" : "WTTest\/",
+    "22D6C9A334D7A7120AD77573BE71DB0DE8BFED45" : "WTTest\/WTTest\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WTTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WTTest.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Coder4E\/WTTestBookTable.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "22D6C9A334D7A7120AD77573BE71DB0DE8BFED45"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Coder4E\/WTTestBookTable.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E56C7186D006DEF0F45D948B6D237B9BAD7ED9D4"
+    }
+  ]
+}
